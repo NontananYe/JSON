@@ -2,9 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "user": "Nontanan",
-      "title": "hello",
-      "status": "200"
+      "title": "hello"
     }
   ],
   "profile": {
